@@ -23,3 +23,5 @@ git log --pretty=one line {takes everything in  oneline}
 git log --since=2.years
  git log --pretty=format:"%h --%an"{name of author}
 git commit --amend
+git restore --staged <file name> {unstage file}
+git  checkout --"kanak.txt"
